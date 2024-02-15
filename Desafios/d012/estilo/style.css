@@ -1,5 +1,12 @@
 @charset "UTF-8";
 
+
+:root{
+    --font1:  Verdana, Geneva, Tahoma, sans-serif;
+    --font2: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    --font3: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
 *{
     margin: 0px;
     padding: 0px;
@@ -8,16 +15,22 @@
 html, body{
     background-color: darkgray;
     min-height: 100vh;
+    font-family: var(--font1);
 }
 
 header{
     background-color: black;
     color: white;   
     text-align: center;
+    
 }
 
 header>h1{
+    font-family: var(--font3);
+    font-weight: bolder;
     padding-top: 50px;
+    font-size: 5vw;
+    
 }
 
 header > p{
@@ -36,10 +49,13 @@ header a:hover, footer a:hover{
 }
 
 section{
+    font-family: var(--font2);
+    font-size: 2vw;
     padding-top: 10vh;
     padding-bottom: 10vh;
-    padding-left: 30px;
+    padding-left: 2vw;
     line-height: 2em;
+    /*text-shadow: 1px 1px 0px black;*/
 }
 
 section.normal{
@@ -47,23 +63,38 @@ section.normal{
     color: black;
 }
 
+section.normal >p {
+    padding:1.5em;
+}
+
 section.imagem{
     background-color: rgb(39, 68, 58);
     color: white;
+    box-shadow: inset 6px 6px 13px 0px rgba(0, 0, 0, 0.384);
+    background-size:cover;
+    background-attachment: fixed;
+}
+
+section#img1{
+    background-image: url('../imagens/background001.jpg');
+    background-position: right, center;
+    
+}
+
+section#img2{
+    background-image: url('../imagens/background002.jpg');
+    background-size: right, center;
 }
 
 section.imagem >p{
-    background-color: rgba(0, 0, 0, 0.226);
-    width: 450px;
-    padding-left: 10px;
+    display: inline-block;
+    background-color: rgba(0, 0, 0, 0.5);
+    padding: 10px;
 }
-
-
-
 
 footer{
     background-color: black;
     color: white;
-    padding: 10px;
+    padding: 2vw;
     text-align: center;
 }
