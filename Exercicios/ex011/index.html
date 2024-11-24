@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Midias em HTML5</title>
+</head>
+<body>
+    <h1>Trabalhando com imagens dinamicas</h1>
+    <p>Voce pode abrir este site em outros dispositivos ou redirecionar o tamanho do seu navegador para assim ver o tamanho fdas imagens a ser alteradas dinamicamente</p>
+
+    <picture>
+        <source media="(max-width: 730px)" srcset="imagens/foto-p.png" type="image/png">
+        <source media="(max-width: 1050px)" srcset="imagens/foto-m.png" type="image/png">
+
+        <img src="imagens/foto-g.png" alt="imagens Flexiveis">
+    </picture>
+
+    <h1>Trabalhando com Audios em HTML5</h1>
+    <P>Podemos reproduzir os audios no nosso site usando a tag audio </P>
+    <audio preload="metadata" controls >
+        <source src="audios/naoparedelutar.mp3" type="audio/mpeg">
+        <p>Infelizmente o seu navegador não possui suporte para estes audio, 
+            <a href="audios/naoparedelutar.mp3" download="naoparedelutar.mp3" type="audio/mpeg">Clica aqui para baixar</a>
+        </p>
+    </audio>    
+</body>
+</html>

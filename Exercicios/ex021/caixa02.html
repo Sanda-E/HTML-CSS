@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Grouping Tags</title>
+    <style>
+        body{
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            background-color: lightgrey;
+            margin:0;
+        }
+        Header{
+            background-color: white;
+            padding: 10px;
+            margin: 10px;
+
+        }
+
+        nav{
+            background-color: aquamarine;
+        }
+
+        nav > a{
+            background-color: aquamarine;
+            text-decoration: none;
+            color: black;
+        }
+
+        nav:hover > a{
+            text-decoration: underline;
+
+        }
+
+        main{
+            background-color: white;
+            padding: 10px;
+            margin: 10px;
+            border-radius: 10px 0px;
+            box-shadow: 2px 2px 4px 1px rgba(0, 0, 0, 0.301);
+
+        }
+
+        article{
+            background-color: lightgray;
+        }
+        article >aside {
+            font-size: 11px;
+            background-color: white;
+            text-align: right;
+        }
+
+        footer>p{
+            background-color: rgba(127, 255, 212, 0.685);
+            color: black;
+            text-align: center;
+            padding: 4px;
+            margin: 0px;
+            box-shadow: 2px 2px 3px 1px rgba(0, 0, 0, 0.342);
+        }
+
+        div#bola{
+            height: 100px;
+            width: 100px;
+            background-color: white;
+            margin: 10px;
+            border-radius: 50%;
+        }
+
+    </style>
+
+</head>
+<body>
+    <Header>
+        <h1>Utlizando Grouping Tags</h1>
+        <nav>
+            <a href="#" id="id1">Link</a>
+            <a href="#">Link</a>
+            <a href="#">Link</a>
+            <a href="#">Link</a>
+        </nav>
+    </Header>
+    <main>
+        <section id="conteudo">
+
+        </section>
+        <section id="artigos">
+            <article>
+                <h2>Artigo 1.1</h2>
+               <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Animi ea commodi provident! Doloribus temporibus earum assumenda nihil vero, amet magni sint, possimus vel soluta veritatis necessitatibus perferendis nostrum error unde?</p>
+            <aside>                
+                <p>Este site foi criado pelo Sanda</p>
+            </aside>
+            </article>          
+        </section>
+    </main>
+    <footer>
+        <p>Desenvolvimento baseado em CursoEmVideos</p>
+    </footer>
+    <div id="bola">
+
+    </div>
+</body>
+</html>

@@ -1,0 +1,387 @@
+Módulo 2  curso em video de HTML5
+
+13:47
+EM REPRODUÇÃO
+O que vamos aprender no módulo 02? - @Curso em Vídeo HTML5 + CSS3
+Curso em Vídeo
+•
+429 mil visualizações • há 3 anos
+
+2
+
+24:14
+EM REPRODUÇÃO
+Psicologia das Cores - @Curso em Vídeo HTML5 e CSS3
+Curso em Vídeo
+•
+180 mil visualizações • há 3 anos
+
+3
+
+20:46
+EM REPRODUÇÃO
+Representando Cores com CSS3 - @Curso em Vídeo HTML5 e CSS3
+Curso em Vídeo
+•
+162 mil visualizações • há 3 anos
+
+4
+
+25:08
+EM REPRODUÇÃO
+Harmonia de cores - @Curso em Vídeo HTML5 e CSS3
+Curso em Vídeo
+•
+144 mil visualizações • há 3 anos
+
+5
+
+18:59
+EM REPRODUÇÃO
+Paleta de cores - @Curso em Vídeo HTML5 e CSS3
+Curso em Vídeo
+•
+132 mil visualizações • há 3 anos
+
+6
+
+10:17
+EM REPRODUÇÃO
+Como capturar cores da tela? - @Curso em Vídeo HTML5 e CSS3
+Curso em Vídeo
+•
+114 mil visualizações • há 3 anos
+
+7
+
+13:45
+EM REPRODUÇÃO
+Como criar degradê com CSS ? - @Curso em Vídeo HTML5 e CSS3
+Curso em Vídeo
+•
+178 mil visualizações • há 3 anos
+
+8
+
+15:57
+EM REPRODUÇÃO
+Criando um exemplo real - @Curso em Vídeo HTML5 e CSS3
+Curso em Vídeo
+•
+159 mil visualizações • há 3 anos
+
+9
+
+17:00
+EM REPRODUÇÃO
+Primeiros passos em Tipografia - @Curso em Vídeo HTML5 e CSS3
+Curso em Vídeo
+•
+119 mil visualizações • há 3 anos
+
+10
+
+25:11
+EM REPRODUÇÃO
+Anatomia do tipo - @Curso em Vídeo HTML5 e CSS3
+Curso em Vídeo
+•
+114 mil visualizações • há 3 anos
+
+11
+
+12:23
+EM REPRODUÇÃO
+Famílias de fonte com CSS - @Curso em Vídeo HTML5 e CSS3
+Curso em Vídeo
+•
+110 mil visualizações • há 3 anos
+
+12
+
+12:25
+EM REPRODUÇÃO
+Tamanho de fonte e suas medidas - @Curso em Vídeo HTML5 e CSS3
+Curso em Vídeo
+•
+117 mil visualizações • há 3 anos
+
+13
+
+13:36
+EM REPRODUÇÃO
+Peso, estilo e shorthand font - @Curso em Vídeo HTML5 e CSS3
+Curso em Vídeo
+•
+105 mil visualizações • há 3 anos
+
+14
+
+15:23
+EM REPRODUÇÃO
+Usando Google Fonts - @Curso em Vídeo HTML5 e CSS3
+Curso em Vídeo
+•
+139 mil visualizações • há 3 anos
+
+15
+
+14:09
+EM REPRODUÇÃO
+Usando fontes externas baixadas - @Curso em Vídeo HTML5 e CSS3
+Curso em Vídeo
+•
+161 mil visualizações • há 3 anos
+
+16
+
+12:06
+EM REPRODUÇÃO
+Capturando as fontes usadas em um site - @Curso em Vídeo HTML5 e CSS3
+Curso em Vídeo
+•
+91 mil visualizações • há 3 anos
+
+17
+
+12:31
+EM REPRODUÇÃO
+Detectando fontes dentro de imagens - @Curso em Vídeo HTML5 e CSS3
+Curso em Vídeo
+•
+83 mil visualizações • há 3 anos
+
+18
+
+9:17
+EM REPRODUÇÃO
+Alinhamento de textos com CSS - @Curso em Vídeo HTML5 e CSS3
+Curso em Vídeo
+•
+146 mil visualizações • há 3 anos
+
+19
+
+13:02
+EM REPRODUÇÃO
+Usando o id com CSS - @Curso em Vídeo HTML5 e CSS3
+Curso em Vídeo
+•
+116 mil visualizações • há 3 anos
+
+20
+
+13:21
+EM REPRODUÇÃO
+As diferenças entre id e class - @Curso em Vídeo HTML5 e CSS3
+Curso em Vídeo
+•
+117 mil visualizações • há 3 anos
+
+21
+
+13:56
+EM REPRODUÇÃO
+Pseudo-classes em CSS - @Curso em Vídeo HTML5 e CSS3
+Curso em Vídeo
+•
+136 mil visualizações • há 3 anos
+
+22
+
+13:32
+EM REPRODUÇÃO
+Pseudo-elementos em CSS - @Curso em Vídeo HTML5 e CSS3
+Curso em Vídeo
+•
+119 mil visualizações • há 3 anos
+
+23
+
+16:35
+EM REPRODUÇÃO
+Modelo de Caixas: primeiros passos - @Curso em Vídeo HTML5 e CSS3
+Curso em Vídeo
+•
+131 mil visualizações • há 2 anos
+
+24
+
+20:08
+EM REPRODUÇÃO
+Modelo de Caixas na prática (parte 1) - @Curso em Vídeo HTML5 e CSS3
+Curso em Vídeo
+•
+132 mil visualizações • há 2 anos
+
+25
+
+19:02
+EM REPRODUÇÃO
+Modelo de Caixas na prática (parte 2) - @Curso em Vídeo HTML5 e CSS3
+Curso em Vídeo
+•
+108 mil visualizações • há 2 anos
+
+26
+
+15:18
+EM REPRODUÇÃO
+Grouping Tags em HTML5 - @Curso em Vídeo HTML5 e CSS3
+Curso em Vídeo
+•
+113 mil visualizações • há 2 anos
+
+27
+
+14:06
+EM REPRODUÇÃO
+Sombra nas Caixas - @CursoemVideo de HTML5 e CSS3
+Curso em Vídeo
+•
+99 mil visualizações • há 2 anos
+
+28
+
+9:46
+EM REPRODUÇÃO
+Caixas com vértices arredondados - @Curso em Vídeo HTML5 e CSS3
+Curso em Vídeo
+•
+79 mil visualizações • há 2 anos
+
+29
+
+12:06
+EM REPRODUÇÃO
+Bordas decoradas - @Curso em Vídeo HTML5 e CSS3
+Curso em Vídeo
+•
+81 mil visualizações • há 2 anos
+
+30
+
+7:40
+EM REPRODUÇÃO
+DESAFIO do Módulo 2 - @Curso em Vídeo HTML5 e CSS3
+Curso em Vídeo
+•
+100 mil visualizações • há 2 anos
+
+31
+
+9:58
+EM REPRODUÇÃO
+Criando um projeto a partir do zero - @Curso em Vídeo HTML5 e CSS3
+Curso em Vídeo
+•
+93 mil visualizações • há 2 anos
+
+32
+
+9:17
+EM REPRODUÇÃO
+Navegando pelo projeto pronto - @Curso em Vídeo HTML5 e CSS3
+Curso em Vídeo
+•
+81 mil visualizações • há 2 anos
+
+33
+
+15:32
+EM REPRODUÇÃO
+Planejando a estrutura do seu site - @Curso em Vídeo HTML5 e CSS3
+Curso em Vídeo
+•
+102 mil visualizações • há 2 anos
+
+34
+
+17:33
+EM REPRODUÇÃO
+Transformando o layout em código - @Curso em Vídeo HTML5 e CSS3
+Curso em Vídeo
+•
+101 mil visualizações • há 2 anos
+
+35
+
+20:56
+EM REPRODUÇÃO
+Organizando o conteúdo do site - @Curso em Vídeo HTML5 e CSS3
+Curso em Vídeo
+•
+105 mil visualizações • há 2 anos
+
+36
+
+19:59
+EM REPRODUÇÃO
+Variáveis em CSS - @Curso em Vídeo HTML5 e CSS3
+Curso em Vídeo
+•
+114 mil visualizações • há 2 anos
+
+37
+
+20:19
+EM REPRODUÇÃO
+Responsividade para sites - @Curso em Vídeo HTML5 e CSS3
+Curso em Vídeo
+•
+170 mil visualizações • há 2 anos
+
+38
+
+14:24
+EM REPRODUÇÃO
+Responsividade na prática - @Curso em Vídeo HTML5 e CSS3
+Curso em Vídeo
+•
+99 mil visualizações • há 2 anos
+
+39
+
+15:59
+EM REPRODUÇÃO
+Configurando o header e o menu do site - @Curso em Vídeo HTML5 e CSS3
+Curso em Vídeo
+•
+108 mil visualizações • há 2 anos
+
+40
+
+17:01
+EM REPRODUÇÃO
+Melhorando o formato do conteúdo - @Curso em Vídeo HTML5 e CSS3
+Curso em Vídeo
+•
+80 mil visualizações • há 2 anos
+
+41
+
+16:58
+EM REPRODUÇÃO
+Rodapé, conteúdo periférico e links - @Curso em Vídeo HTML5 e CSS3
+Curso em Vídeo
+•
+79 mil visualizações • há 2 anos
+
+42
+
+14:26
+EM REPRODUÇÃO
+Tornando um vídeo responsivo - @Curso em Vídeo HTML5 e CSS3
+Curso em Vídeo
+•
+84 mil visualizações • há 2 anos
+
+43
+
+16:58
+EM REPRODUÇÃO
+Fim do Módulo 2: certificados liberados - @Curso em Vídeo HTML5 e CSS3
+Curso em Vídeo
+•
+54 mil visualizações • há 2 anos
+
