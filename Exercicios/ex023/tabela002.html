@@ -1,0 +1,159 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tabela</title>
+
+    <style>
+        body{
+            font-family: Arial, Helvetica, sans-serif;
+        }
+
+        table{
+            width: 400px;
+            border-collapse: collapse;
+            position: relative;
+        }
+
+        td,th{
+            border: 1px solid black;
+            padding: 10px;   
+            text-align: left;        
+        }
+
+        caption{
+            font-size: 16px;
+            font-weight: bold;
+            text-align: left;
+            padding:5px;
+
+        }
+
+        thead{
+            background-color: rgb(65, 62, 62);
+            color: white;
+        }
+
+        thead > tr > th{
+            position: sticky;
+            top: 0px;
+            background-color: rgb(65, 62, 62);
+        }
+
+        tbody > tr:nth-child(odd){ /* (2n-1) */     
+            background-color: white;
+        }
+
+        tbody > tr:nth-child(even){/* (2n) */
+            background-color: lightgray;
+        }
+
+        tfoot{
+            background-color: gray;
+            color: white;
+        }
+
+
+    </style>
+
+</head>
+<body>
+        <!--
+    ANOTOMIA DE TABELAS GRANDES
+    TABLE
+        CAPTION
+        THEAD
+            TR, TH, TD
+        TBODY
+            TR, TH, TD
+        TFOOT
+            TR, TH, TD
+    -->
+    <h1>Uso de tabelas Grandes</h1>
+
+    <table>
+
+        <Caption>Provincias de Angola</Caption>
+        <thead>
+            <tr>
+                <th scope="col">Privincias</th>
+                <th scope="col" style="width: 120px;">Capital</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>Luanda</td>
+                <td>Luanda</td>             
+            </tr>
+            <tr>
+                <td>Huila</td>
+                <td>Lubango</td>
+            </tr>
+            <tr>
+                <td>Uíge</td>
+                <td>Uíge</td>
+            </tr>
+            <tr>
+                <td>Benguela</td>
+                <td>Desconhecido</td>
+            </tr>
+            <tr>
+                <td>Bié</td>
+                <td>Cuito</td>
+            </tr>
+            <tr>
+                <td>Kwanza Norte</td>
+                <td>Menongue</td>
+            </tr>
+            <tr>
+                <td>Kwanza Norte</td>
+                <td>Menongue</td>
+            </tr>
+            <tr>
+                <td>Kwanza Norte</td>
+                <td>Menongue</td>
+            </tr>
+            <tr>
+                <td>Kwanza Norte</td>
+                <td>Menongue</td>
+            </tr>
+            <tr>
+                <td>Kwanza Norte</td>
+                <td>Menongue</td>
+            </tr>
+            <tr>
+                <td>Kwanza Norte</td>
+                <td>Menongue</td>
+            </tr>
+            <tr>
+                <td>Kwanza Norte</td>
+                <td>Menongue</td>
+            </tr>
+        </tbody>
+        <tfoot>
+            <tr>
+                <th scope="row">Total de População: </th>
+                <td><strong>5.500.657.70</strong></td>
+            </tr>
+        </tfoot>
+    </table>
+
+    <p>
+        Lorem ipsum dolor sit, amet consectetur adipisicing elit. Assumenda beatae eveniet voluptatum, atque sed ipsa dolorem vel nulla reprehenderit consequuntur voluptatem quis iusto architecto eius fugit quaerat quo. Soluta, distinctio?Lorem ipsum dolor sit amet consectetur adipisicing elit. Doloribus repudiandae fuga dolorum ducimus fugiat molestias fugit doloremque, hic maiores odit, provident et nemo est, nesciunt nostrum! At amet suntLorem ipsum dolor sit amet, consectetur adipisicing elit. Necessitatibus, ad? Alias quod ex in pariatur reprehenderit nam maxime corrupti provident cupiditate id ducimus, neque necessitatibus, et veritatis architecto, adipisci lorem Lorem, ipsum dolor sit amet consectetur adipisicing elit. Aut, aliquam sunt magni officiis numquam reiciendis, quae maxime quo libero deleniti rem! Accusamus reiciendis dolores sapiente ipsam, ratione et sequi animi Lorem ipsum dolor sit amet consectetur adipisicing elit. Magnam exercitationem, neque eum esse quaerat suscipit nulla provident earum repudiandae possimus dignissimos quo veritatis soluta adipisci labore necessitatibus dolore dolorem totam!
+    </p>
+
+    <p>
+        Lorem ipsum dolor sit, amet consectetur adipisicing elit. Assumenda beatae eveniet voluptatum, atque sed ipsa dolorem vel nulla reprehenderit consequuntur voluptatem quis iusto architecto eius fugit quaerat quo. Soluta, distinctio?Lorem ipsum dolor sit amet consectetur adipisicing elit. Doloribus repudiandae fuga dolorum ducimus fugiat molestias fugit doloremque, hic maiores odit, provident et nemo est, nesciunt nostrum! At amet suntLorem ipsum dolor sit amet, consectetur adipisicing elit. Necessitatibus, ad? Alias quod ex in pariatur reprehenderit nam maxime corrupti provident cupiditate id ducimus, neque necessitatibus, et veritatis architecto, adipisci lorem Lorem, ipsum dolor sit amet consectetur adipisicing elit. Aut, aliquam sunt magni officiis numquam reiciendis, quae maxime quo libero deleniti rem! Accusamus reiciendis dolores sapiente ipsam, ratione et sequi animi Lorem ipsum dolor sit amet consectetur adipisicing elit. Magnam exercitationem, neque eum esse quaerat suscipit nulla provident earum repudiandae possimus dignissimos quo veritatis soluta adipisci labore necessitatibus dolore dolorem totam!
+    </p>
+
+    <p>
+        Lorem ipsum dolor sit, amet consectetur adipisicing elit. Assumenda beatae eveniet voluptatum, atque sed ipsa dolorem vel nulla reprehenderit consequuntur voluptatem quis iusto architecto eius fugit quaerat quo. Soluta, distinctio?Lorem ipsum dolor sit amet consectetur adipisicing elit. Doloribus repudiandae fuga dolorum ducimus fugiat molestias fugit doloremque, hic maiores odit, provident et nemo est, nesciunt nostrum! At amet suntLorem ipsum dolor sit amet, consectetur adipisicing elit. Necessitatibus, ad? Alias quod ex in pariatur reprehenderit nam maxime corrupti provident cupiditate id ducimus, neque necessitatibus, et veritatis architecto, adipisci lorem Lorem, ipsum dolor sit amet consectetur adipisicing elit. Aut, aliquam sunt magni officiis numquam reiciendis, quae maxime quo libero deleniti rem! Accusamus reiciendis dolores sapiente ipsam, ratione et sequi animi Lorem ipsum dolor sit amet consectetur adipisicing elit. Magnam exercitationem, neque eum esse quaerat suscipit nulla provident earum repudiandae possimus dignissimos quo veritatis soluta adipisci labore necessitatibus dolore dolorem totam!
+    </p>
+
+    <p>
+        Lorem ipsum dolor sit, amet consectetur adipisicing elit. Assumenda beatae eveniet voluptatum, atque sed ipsa dolorem vel nulla reprehenderit consequuntur voluptatem quis iusto architecto eius fugit quaerat quo. Soluta, distinctio?Lorem ipsum dolor sit amet consectetur adipisicing elit. Doloribus repudiandae fuga dolorum ducimus fugiat molestias fugit doloremque, hic maiores odit, provident et nemo est, nesciunt nostrum! At amet suntLorem ipsum dolor sit amet, consectetur adipisicing elit. Necessitatibus, ad? Alias quod ex in pariatur reprehenderit nam maxime corrupti provident cupiditate id ducimus, neque necessitatibus, et veritatis architecto, adipisci lorem Lorem, ipsum dolor sit amet consectetur adipisicing elit. Aut, aliquam sunt magni officiis numquam reiciendis, quae maxime quo libero deleniti rem! Accusamus reiciendis dolores sapiente ipsam, ratione et sequi animi Lorem ipsum dolor sit amet consectetur adipisicing elit. Magnam exercitationem, neque eum esse quaerat suscipit nulla provident earum repudiandae possimus dignissimos quo veritatis soluta adipisci labore necessitatibus dolore dolorem totam!
+    </p>
+
+</body>
+</html>
