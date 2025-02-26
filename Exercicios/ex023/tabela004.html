@@ -34,14 +34,14 @@
 
         <thead>
             <tr>
-                <th>Grupo</th>
-                <th>Nomes</th>
-                <th colspan="3">Filmes</th>
+                <th sccope="col">Grupo</th>
+                <th scope="col">Nomes</th>
+                <th colspan="3" scope="colgroup">Filmes</th>
             </tr>
         </thead>
         <tbody>
             <tr>
-                <th rowspan="3">Homens</th>
+                <th rowspan="3" scope="rowgroup">Homens</th>
                 <td>Mambueni João</td>
                 <td>Vida em um ano</td>
                 <td>O sol da meio noite</td>
@@ -62,7 +62,7 @@
                 <td>Extreminador</td>
             </tr>
             <tr>
-                <th rowspan="3">Mulheres</th>
+                <th rowspan="3" scope="rowgroup">Mulheres</th>
                 <td>Nzumba Ginga</td>
                 <td>Perigo no ocenao</td>
                 <td>Desejos pribidos</td>
@@ -84,7 +84,8 @@
             </tr>
         </tbody>
         <tfoot>
-
+            <th colspan="4" scope="row">Total</th>
+            <td>500000</td>
         </tfoot>
 
     </table>
