@@ -1,0 +1,132 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Teste</title>
+
+    <style>
+        body{
+            font-family: Arial, Helvetica, sans-serif;
+        }
+
+        table{
+            width: 400px;
+            border-collapse: collapse;
+            position: relative;
+        }
+
+        td,th{
+            border: 1px solid black;
+            padding: 10px;   
+            text-align: left;        
+        }
+
+        caption{
+            font-size: 16px;
+            font-weight: bold;
+            text-align: left;
+            padding:5px;
+
+        }
+
+        thead{
+            background-color: rgb(65, 62, 62);
+            color: white;
+        }
+
+        thead > tr > th{
+            position: sticky;
+            top: 0px;
+            background-color: rgb(65, 62, 62);
+        }
+
+        tbody > tr:nth-child(odd){ /* (2n-1) */     
+            background-color: white;
+        }
+
+        tbody > tr:nth-child(even){/* (2n) */
+            background-color: lightgray;
+        }
+
+        tfoot{
+            background-color: gray;
+            color: white;
+        }
+
+
+    </style>
+
+</head>
+<body>
+    <h1>Isso é um teste</h1>
+
+    
+    <table>
+
+        <Caption>Provincias de Angola</Caption>
+        <thead>
+            <tr>
+                <th scope="col">Privincias</th>
+                <th scope="col" style="width: 120px;">Capital</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>Luanda</td>
+                <td>Luanda</td>             
+            </tr>
+            <tr>
+                <td>Huila</td>
+                <td>Lubango</td>
+            </tr>
+            <tr>
+                <td>Uíge</td>
+                <td>Uíge</td>
+            </tr>
+            <tr>
+                <td>Benguela</td>
+                <td>Desconhecido</td>
+            </tr>
+            <tr>
+                <td>Bié</td>
+                <td>Cuito</td>
+            </tr>
+            <tr>
+                <td>Kwanza Norte</td>
+                <td>Menongue</td>
+            </tr>
+            <tr>
+                <td>Kwanza Norte</td>
+                <td>Menongue</td>
+            </tr>
+            <tr>
+                <td>Kwanza Norte</td>
+                <td>Menongue</td>
+            </tr>
+            <tr>
+                <td>Kwanza Norte</td>
+                <td>Menongue</td>
+            </tr>
+            <tr>
+                <td>Kwanza Norte</td>
+                <td>Menongue</td>
+            </tr>
+            <tr>
+                <td>Kwanza Norte</td>
+                <td>Menongue</td>
+            </tr>
+            <tr>
+                <td>Kwanza Norte</td>
+                <td>Menongue</td>
+            </tr>
+        </tbody>
+        <tfoot>
+            <tr>
+                <th scope="row">Total de População: </th>
+                <td><strong>5.500.657.70</strong></td>
+            </tr>
+        </tfoot>
+    </table>
+</body>
+</html>
