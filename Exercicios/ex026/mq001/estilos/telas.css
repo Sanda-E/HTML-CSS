@@ -23,3 +23,25 @@ header > h1{
 main ul{
     list-style-type: none;
 }
+
+menu li{
+   
+    display: inline-block;
+    background-color: rgb(53, 52, 52);
+    color: white;   
+    padding: 10px;
+    margin: 10px;
+}
+
+article{
+    display: block;
+    margin: auto;
+    width: 700px;
+    text-align: justify;
+
+}
+
+article > h2{
+    padding-bottom: 10px;
+    padding-top: 10px;
+}

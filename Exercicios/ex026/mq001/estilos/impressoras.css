@@ -19,3 +19,7 @@ menu{
 main{
     text-align: justify;
 }
+
+article::after{
+    content: 'Este contrudo foi montado em cursoemvideo';
+}
